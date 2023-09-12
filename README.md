@@ -6,7 +6,7 @@
 
 You can find me on 🗃 [Linked In](https://www.linkedin.com/in/xmanda/)  
 
-There's no time for impostor syndrome. 
+There's no time for impostor syndrome 
 
 ![monkey typing](/monkeytyping.gif)
 
