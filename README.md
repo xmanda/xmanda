@@ -8,7 +8,8 @@ You can find me on 🗃 [Linked In](https://www.linkedin.com/in/xmanda/)
 
 There's no time for impostor syndrome. 
 
-<img src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif" alt="GIF Description" width="500" height="300">
+![monkey typing](/monkeytyping.gif)
+
 
 
 
