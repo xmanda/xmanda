@@ -1,6 +1,6 @@
 ## Hello World, my name is Amanda Esquivel
 
-#I am a front-end developer who also specializes in UX/UI design. I have always been a person who leans towards my creative side and also loves technology so I found a great middle ground in the area I have managed to set myself professionally. 
+### I am a front-end developer who also specializes in UX/UI design. I have always been a person who leans towards my creative side and also loves technology so I found a great middle ground in the area I have managed to set myself professionally. 
 
 👩‍💻 I am currently working on furthering my skills on React.js.
 
