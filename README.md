@@ -8,7 +8,7 @@ You can find me on 🗃 [Linked In](https://www.linkedin.com/in/xmanda/)
 
 There's no time for impostor syndrome. 
 
-!(https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif)
+![monkey typing](https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif)
 
 <!--
 **xmanda/xmanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
