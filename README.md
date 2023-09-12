@@ -1,6 +1,6 @@
 ### Hello World, my name is Amanda Esquivel
 
-### I am a front-end developer who also specializes in UX/UI design. I have always been a person who leans towards creative spaces 
+ I am a front-end developer who also specializes in UX/UI design. I have always been a person who leans towards creative spaces 
 <!--
 **xmanda/xmanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
