@@ -1,6 +1,15 @@
-### Hello World, my name is Amanda Esquivel
+## Hello World, my name is Amanda Esquivel
 
- I am a front-end developer who also specializes in UX/UI design. I have always been a person who leans towards creative spaces 
+#I am a front-end developer who also specializes in UX/UI design. I have always been a person who leans towards my creative side and also loves technology so I managed to find a great middle ground in the area I have managed to set myself professionally. 
+
+👩‍💻 I am currently working on furthering my skills on React.js.
+
+You can find me on 🗃 [Linked In](https://www.linkedin.com/in/xmanda/)  
+
+There's no time for impostor syndrome. 
+
+![https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif]
+
 <!--
 **xmanda/xmanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
