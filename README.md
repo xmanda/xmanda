@@ -6,7 +6,7 @@ I am a front-end developer who also specializes in UX/UI design. I have always b
 
 You can find me on 🗃 [Linked In](https://www.linkedin.com/in/xmanda/)  
 
-There's no time for impostor syndrome 
+There's no time for impostor syndrome, putting these skills to work
 
 ![monkey typing](/monkeytyping.gif)
 
