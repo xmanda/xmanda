@@ -1,7 +1,7 @@
-## Hello World, I'm Amanda
-#I am a front-end developer who also specializes in UX/UI design. I have always been a person who leans towards my creative side and also loves technology so I found a great middle ground in the area I have managed to set myself professionally.
+## Hello World, I'm Amanda Esquivel
+I am a front-end developer who also specializes in UX/UI design. I have always been a person who leans towards my creative side and also loves technology so I found a great middle ground in the area I have managed to set myself professionally.
 
-- 🔭 I’m currently working on **furthering my skills on React.js.**
+🔭 I’m currently working on **furthering my skills on React.js.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
